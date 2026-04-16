@@ -1,0 +1,14 @@
+{
+    "name": "car-loan-calculator-js",
+    "version": "1.0.0",
+    "description": "Calculate monthly car payments, amortization schedules, and loan comparisons. Used by carpaymentcalculator.app",
+    "main": "index.js",
+    "keywords": ["car payment", "auto loan", "calculator", "amortization", "car finance"],
+    "author": "wsmhj",
+    "license": "MIT",
+    "homepage": "https://carpaymentcalculator.app",
+    "repository": {
+          "type": "git",
+          "url": "https://github.com/wsmhj/car-loan-calculator-js.git"
+    }
+}
